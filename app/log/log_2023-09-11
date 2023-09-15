@@ -1,0 +1,51 @@
+[2023-09-11 17:58:32][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 17:59:24][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 17:59:24][WARNING|get_data.py-createdataset:62] >> test error: [Errno 2] No such file or directory: '/home/sychung/airflowNone'
+[2023-09-11 17:59:35][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 17:59:35][WARNING|get_data.py-createdataset:62] >> test error: [Errno 2] No such file or directory: '/home/sychung/airflowNone'
+[2023-09-11 18:00:05][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 18:00:05][WARNING|get_data.py-createdataset:62] >> test error: [Errno 2] No such file or directory: '/home/sychung/airflowNone'
+[2023-09-11 18:14:28][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 18:14:28][WARNING|get_data.py-createdataset:62] >> test error: [Errno 2] No such file or directory: '/home/sychung/airflowNone'
+[2023-09-11 18:15:35][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 18:15:35][WARNING|get_data.py-createdataset:62] >> test error: [Errno 2] No such file or directory: '/home/sychung/airflowNone'
+[2023-09-11 18:17:23][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 18:17:23][WARNING|get_data.py-createdataset:62] >> test error: [Errno 2] No such file or directory: '/home/sychung/airflowNone'
+[2023-09-11 18:18:27][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 18:18:27][WARNING|get_data.py-createdataset:62] >> test error: [Errno 2] No such file or directory: '/home/sychung/airflowNone'
+[2023-09-11 18:19:36][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 18:19:36][WARNING|get_data.py-createdataset:62] >> test error: [Errno 2] No such file or directory: '/home/sychung/airflowNone'
+[2023-09-11 18:19:55][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 18:19:55][WARNING|get_data.py-createdataset:62] >> test error: [Errno 2] No such file or directory: '/home/sychung/airflowNone'
+[2023-09-11 18:21:18][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 18:21:18][WARNING|get_data.py-createdataset:62] >> test error: [Errno 2] No such file or directory: '/home/sychung/airflowNone'
+[2023-09-11 18:21:25][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 18:21:25][WARNING|get_data.py-createdataset:62] >> test error: [Errno 2] No such file or directory: '/home/sychung/airflowNone'
+[2023-09-11 18:22:07][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 18:22:07][WARNING|get_data.py-createdataset:62] >> test error: [Errno 2] No such file or directory: 'None'
+[2023-09-11 18:29:17][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 18:29:17][WARNING|get_data.py-createdataset:62] >> test error: [Errno 2] No such file or directory: 'None'
+[2023-09-11 18:30:07][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 18:30:07][WARNING|get_data.py-createdataset:62] >> test error: [Errno 2] No such file or directory: '/home/sychung/airflowNone'
+[2023-09-11 18:31:10][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 18:31:10][WARNING|get_data.py-createdataset:62] >> test error: [Errno 2] No such file or directory: '/home/sychung/airflowNone'
+[2023-09-11 18:32:40][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 18:32:40][WARNING|get_data.py-createdataset:62] >> test error: [Errno 2] No such file or directory: '/home/sychung/airflowNone'
+[2023-09-11 18:33:19][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 18:33:19][WARNING|get_data.py-createdataset:62] >> test error: [Errno 21] Is a directory: '/home/sychung/airflow'
+[2023-09-11 18:35:59][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 18:35:59][WARNING|get_data.py-createdataset:62] >> test error: [Errno 21] Is a directory: '/home/sychung/airflow'
+[2023-09-11 18:39:58][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 18:39:58][WARNING|get_data.py-createdataset:62] >> test error: [Errno 21] Is a directory: '/home/sychung/airflow'
+[2023-09-11 18:42:54][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 18:42:54][WARNING|get_data.py-createdataset:62] >> test error: [Errno 21] Is a directory: '/home/sychung/airflow'
+[2023-09-11 18:46:36][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 18:46:36][WARNING|get_data.py-createdataset:62] >> test error: [Errno 2] No such file or directory: '/home/sychung/airflowNone'
+[2023-09-11 18:49:21][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 18:49:21][WARNING|get_data.py-createdataset:62] >> test error: 'NoneType' object is not iterable
+[2023-09-11 18:52:05][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 18:52:05][WARNING|get_data.py-createdataset:62] >> test error: 'NoneType' object is not iterable
+[2023-09-11 18:55:00][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 18:55:00][WARNING|get_data.py-createdataset:62] >> test error: 'NoneType' object is not iterable
+[2023-09-11 18:57:29][INFO|get_data.py-createdataset:19] >> test
+[2023-09-11 18:57:29][WARNING|get_data.py-createdataset:63] >> test error: 'NoneType' object is not iterable

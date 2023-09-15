@@ -1,0 +1,3 @@
+[2023-08-17 13:22:51][INFO|base.py-start:181] >> Scheduler started
+[2023-08-17 13:22:51][INFO|base.py-_real_add_job:895] >> Added job "time_print" to job store "default"
+[2023-08-17 13:23:18][INFO|base.py-start:181] >> Scheduler started
